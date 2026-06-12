@@ -1,4 +1,4 @@
-# Elakanti Akhil Kumar — Portfolio
+# Elakanti Akhil Kumar's — Portfolio
 
 A single-page personal portfolio website (HTML, CSS, vanilla JS) showcasing education, experience, skills, projects, and certifications.
 
